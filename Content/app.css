@@ -1,0 +1,23 @@
+/* custom syle sheet */
+
+.navbar {
+    opacity: 0.8;
+}
+
+#MainTitle {
+    font-size: 3em;
+    color: rgb(86, 144, 207);
+    padding-top: 1em
+}
+
+main {
+    padding-top: 6.375em
+}
+
+article, section {
+    font-size: 1.35em;
+}
+
+#contactForm {
+    margin-bottom: 3em;
+}
